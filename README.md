@@ -65,5 +65,5 @@ A screenshot with the last modifications enabled:
 1. Flat and broader mode-line
 2. Support for `tab-line` and `line-number`
 
-![Screenshot ](https://github.com/mswift42/reykjavik-theme/raw/paaguti/modetabline-linenumber-reykjavik.png)
+![Screenshot ](https://github.com/paaguti/reykjavik-theme/raw/modetabline-linenumber-reykjavik.png)
 
