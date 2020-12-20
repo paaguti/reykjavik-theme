@@ -249,7 +249,7 @@
   (when (>= emacs-major-version 27)
     (custom-theme-set-faces
      'reykjavik
-     `(tab-line ((,class (:inherit fringe :box (:line-width 4 :color ,bg2)))))
+     `(tab-line ((,class (:inherit fringe :height 0.95 :box (:line-width 4 :color ,bg2)))))
      `(tab-line-tab ((,class (:inherit tab-line))))
      `(tab-line-tab-inactive ((,class (:inherit tab-line :foreground ,comment))))
      `(tab-line-tab-current  ((,class (:background ,bg4 :foreground ,fg1 :box (:line-width 4 :color ,bg4)))))
