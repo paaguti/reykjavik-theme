@@ -58,3 +58,12 @@ A nice way of using it is:
 
 (global-tab-line-mode (if (display-graphic-p) t -1))
 ```
+## The new look
+
+A screenshot with the last modifications enabled:
+
+1. Flat and broader mode-line
+2. Support for `tab-line` and `line-number`
+
+![Screenshot ](https://github.com/mswift42/reykjavik-theme/raw/paaguti/modetabline-linenumber-reykjavik.png)
+
